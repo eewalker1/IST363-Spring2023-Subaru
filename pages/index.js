@@ -5,7 +5,6 @@ import CarColorPicker from '../components/CarColorPicker';
 import Header from '../components/Header';
 import Image from 'next/image';
 import Layout from '../components/Layout';
-import Swatch from '../components/Swatch';
 
 import { getAllVehicles, getAllColors } from '../lib/api';
 
